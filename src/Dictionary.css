@@ -1,4 +1,11 @@
 .Dictionary {
-    margin: 40px 0 ;
-    background-color: blueviolet;
+    margin: 40px 0;
+
+}
+
+.Dictionary-input {
+    color: white;
+    background-color: #4C7CBF;
+    border: 2px solid #98C8DF;
+    opacity: 0.6;
 }
