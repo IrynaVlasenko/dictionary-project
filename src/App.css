@@ -13,6 +13,9 @@
     max-width: 400px;
     margin-top: 50px;
     opacity: 0.8;
+    border: 1px solid #4C7CBF;
+    border-radius: 8px;
+    box-shadow: 3px 3px 10px;
 
 }
 
