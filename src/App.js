@@ -9,7 +9,7 @@ export default function App() {
         <img src={logo} className="App-logo" alt="logo" />
       </header>
       <main>
-        <Dictionary defaultKeyword="sunset" />
+        <Dictionary defaultKeyword={"sunset"} />
       </main>
       <footer className="App-footer">Coded by Iryna Vlasenko</footer>
     </div>
